@@ -1,2 +1,1 @@
-# Password-Generator
-to Generator a password, write " print(password) " 
+https://colab.research.google.com/drive/1J0tHwqXk-3Banlxwol-oexotAVFyYNJz?usp=drive_link
